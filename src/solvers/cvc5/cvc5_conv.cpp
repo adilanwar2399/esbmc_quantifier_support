@@ -1444,6 +1444,3 @@ smt_astt cvc5_convt::mk_quantifier(
         return rhs;
     }
 }
-
-
-}
